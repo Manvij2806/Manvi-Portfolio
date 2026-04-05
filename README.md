@@ -52,7 +52,8 @@ npm install
 npm start or npm run dev
 ```
 
-Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
+Now open 
+in your browser 🚀
 
 ---
 
