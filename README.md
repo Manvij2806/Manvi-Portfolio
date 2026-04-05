@@ -2,7 +2,7 @@
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-🌐 **Website:**
+🌐 **Website:**[manvi-jain-portfolio-2806.netlify.app](https://manvi-jain-portfolio-2806.netlify.app/)
 
 🖼️ **Screenshots**
 
@@ -35,23 +35,20 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 
 ## ⚙️ Setup Instructions
 
-To run this project locally:
-
-```bash
 # 1️⃣ Clone the repository
-git 
+git clone https://github.com/Manvij2806/Manvi-Portfolio.git
 
 # 2️⃣ Navigate to project directory
-cd 
+cd Manvi-Portfolio
 
 # 3️⃣ Install dependencies
 npm install
 
 # 4️⃣ Run development server
-npm start or npm run dev
+npm run dev
 ```
 
-Now open 
+Now open http://localhost:5173
 in your browser 🚀
 
 ---
