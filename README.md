@@ -7,8 +7,6 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 🖼️ **Screenshots**
 
 <img width="1862" height="818" alt="Screenshot 2026-04-05 143832" src="https://github.com/user-attachments/assets/ec9216c0-d05b-4525-b01c-e235c4d5bcd3" />
-<img width="1894" height="992" alt="image" src="" />
-<img width="1903" height="1044" alt="Screenshot 2025-11-04 153204" src="" />
 ---
 
 ## 🚀 Features
@@ -41,10 +39,10 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunjdesai-portfolio.git
+git 
 
 # 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+cd 
 
 # 3️⃣ Install dependencies
 npm install
