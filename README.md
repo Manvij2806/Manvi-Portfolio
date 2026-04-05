@@ -32,18 +32,21 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 | **Deployment**      | Vercel / Netlify                         |
 
 ---
-
+ 
 ## ⚙️ Setup Instructions
-
+ 
+To run this project locally:
+ 
+```
 # 1️⃣ Clone the repository
 git clone https://github.com/Manvij2806/Manvi-Portfolio.git
-
+ 
 # 2️⃣ Navigate to project directory
 cd Manvi-Portfolio
-
+ 
 # 3️⃣ Install dependencies
 npm install
-
+ 
 # 4️⃣ Run development server
 npm run dev
 ```
